@@ -1,0 +1,1 @@
+class receipt: pass
